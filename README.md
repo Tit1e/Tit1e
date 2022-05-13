@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Tit1e's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tit1e)](https://github.com/Tit1e/github-readme-stats)
 
 <!--
 **Tit1e/Tit1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
