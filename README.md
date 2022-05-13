@@ -1,3 +1,5 @@
+[![](https://img.shields.io/badge/即刻-@直走的螃蟹-FFE440.svg)](https://web.okjike.com/u/FFDB1E46-63DC-43BE-AA1A-36F3D9CD0017)
+
 [![Tit1e's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tit1e)](https://github.com/Tit1e/github-readme-stats)
 
 <!--
